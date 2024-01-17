@@ -1,6 +1,6 @@
 # vrchat-osc
 OSC is a thing I made when I was bored. It can show what you are focused on, your CPU/RAM, and what you are listening too. (Spotify Support)
-
+### Setup
 Just install and unpack all files in 1 folder or
 ```sh-session
 git clone https://github.com/OwlUniversal/vrchat-osc.git
