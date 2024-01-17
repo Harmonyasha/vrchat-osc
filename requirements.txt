@@ -1,0 +1,4 @@
+psutil==5.9.6
+pywin32==306
+python-osc==1.8.3
+pynput==1.7.6
