@@ -3,7 +3,7 @@ OSC is a thing I made when I was bored. It can show what you are focused on, you
 ### Setup
 Just install and unpack all files in 1 folder or
 ```sh-session
-git clone https://github.com/OwlUniversal/vrchat-osc.git
+git clone https://github.com/Harmonyasha/vrchat-osc.git
 cd vrchat-osc 
 ```
 
